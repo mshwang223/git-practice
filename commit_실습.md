@@ -26,8 +26,8 @@
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 :
-   - 이유 :
+   - 답 : O
+   - 이유 : Git 은 로컬 저장소(Working Directory)에서 파일 생성 수정 삭제하며 이를 Staging Area로 보낸다. 그 후 명령어를 사용하여 Commits 공간에 버전관리를 한다.
 
 
 
